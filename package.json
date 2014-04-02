@@ -1,0 +1,21 @@
+{
+  "name": "r3b-promise",
+  "version": "0.0.1",
+  "description": "A minimal promise implementation",
+  "main": "promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/r3b/promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "ryan bridges",
+  "license": "APLv2",
+  "bugs": {
+    "url": "https://github.com/r3b/promise/issues"
+  }
+}
